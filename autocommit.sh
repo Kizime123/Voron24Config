@@ -19,7 +19,7 @@ config_folder=~/printer_data/config
 # older installs
 
 ### Path to your Klipper folder, by default that is '~/klipper'
-klipper_folder=~/klipper
+#klipper_folder=~/klipper
 
 ### Path to your Moonraker folder, by default that is '~/moonraker'
 moonraker_folder=~/moonraker
@@ -82,4 +82,3 @@ push_config(){
 
 grab_version
 push_config
-
